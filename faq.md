@@ -12,6 +12,11 @@ permalink: /faq/
 
 ### Local Updates 
 
+#### Do I need to wear gloves ? 
+* No, you do not need to wear gloves.
+* Wash your hands regularly
+* Do not touch your face. 
+
 #### What are the local updates for Siksika First Nation regarding COVID-19 ?
 To date, 419 people have been confirmed with COVID19 infection in Alberta. 24 people are being treated in hospital, of which eight are in intensive care. There have now been two deaths from COVID19 in Alberta.  The rest have recovered or are recovering at home. The majority of cases have been travel-related, however there have been 33 cases of person to person, or community spread, mainly in Calgary and Edmonton. 
 
@@ -33,10 +38,5 @@ Siksika launched a COVID19 Response Unit - also known as the CRU.  The CRU will 
 #### I live in Siksika and am experiencing symptoms such as a cough, fever or difficulty breathing. What do I do ?
 If you are living in Siksika and you have symptoms of cough, fever or difficulty breathing: call 911 or 403-734-9111. Medical Dispatch will send either EMS, or the CRU, depending on your symptoms.
 
-#### Do I need to wear gloves ? 
-* No, you do not need to wear gloves.
-* Wash your hands regularly
-* Do not touch your face. 
-
-#### Do I need masks ?
+#### Do I need to wear a mask ?
 No, you do not need to wear gloves.
