@@ -4,3 +4,12 @@
 
 layout: default
 ---
+
+### Who is Kelsey ?
+Kelsey is an automated assistent to provide local infromation to Siksika First Nations
+
+### Privacy Policy
+[Privacy Policy](privacy) 
+
+### Terms of Service
+[Terms of Service](tos) 
