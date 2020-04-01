@@ -32,3 +32,6 @@ Siksika launched a COVID19 Response Unit - also known as the CRU.  The CRU will 
 
 #### I live in Siksika and am experiencing symptoms such as a cough, fever or difficulty breathing. What do I do ?
 If you are living in Siksika and you have symptoms of cough, fever or difficulty breathing: call 911 or 403-734-9111. Medical Dispatch will send either EMS, or the CRU, depending on your symptoms.
+
+#### gloves masks ?
+Response to a very primitive question
