@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Kelsey is an automated assistant to support the Siksika First Nation with 
   information regarding COVID-19 and support services during the pandemic. 
 # baseurl: "/" # the subpath of your site, e.g. /blog
-baseurl: "/kelsey/" 
+baseurl: "/kelsey" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -37,6 +37,8 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Google Analytics
 google_analytics: UA-162526456-1
