@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: ''
 ---
 
-# Kelsey Assistant for Siksika 
-Kelsey is an automated assistant to support the Siksika First Nation with information regarding COVID-19 pandemic. It will be deployed initially on Facebook Messenger and then be integrated on to the Siksika website. 
+Kelsey Assistant for Siksika (Kelsey) is an automated assistant to support the Siksika First Nation with information regarding COVID-19 pandemic. It will be deployed initially on Facebook Messenger and then be integrated on to the Siksika website. 
 <br /><br />
 
 ## Purpose
