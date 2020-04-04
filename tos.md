@@ -4,7 +4,6 @@ title: ''
 permalink: /tos/
 ---
 
-
 ## Terms of Service
 ### Kelsey Assistant for Siksika
 #### Facebook Application
