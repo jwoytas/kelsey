@@ -4,11 +4,27 @@ title: Web Demo
 permalink: /demo/
 ---
 
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  chat-icon="caf0f456-4a0b-4145-bf3d-84a567e2ae3d_x.png"
-  intent="WELCOME"
-  chat-title="Kelsey"
-  agent-id="64f9b576-ab36-472a-9b1a-a508fe8b96bf"
-  language-code="en"
-></df-messenger>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+    xfbml            : true,
+    version          : 'v6.0'
+  });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=install_email
+  page_id="1192003597669830"
+  theme_color="#44bec7">
+</div>
