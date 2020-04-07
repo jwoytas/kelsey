@@ -6,4 +6,3 @@ permalink: /demo/
 
 {% include demo.html %}
 
-test test
