@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dialogflow Web Demo
+title: Dialogflow Dev Demo
 permalink: /dfmd-demo/
 ---
 
