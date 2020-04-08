@@ -1,2 +1,4 @@
-- name: Web Demo
-  link: /kelsey/demo/
+- name: Facebook Messenger Demo
+  link: /kelsey/fb-demo/
+- name: DialogFlow Web Demo
+  link: /kelsey/web-demo/
