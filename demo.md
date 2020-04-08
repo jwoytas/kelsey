@@ -15,3 +15,10 @@ permalink: /demo/
 [Messenger Demo](/kelsey/dfm-demo/)
 
 [Web Demo](/kelsey/dfw-demo/)
+
+<br /><br />
+
+#### DialogFlow (development)
+[Messenger Demo](/kelsey/dfmd-demo/)
+
+[Web Demo](/kelsey/dfwd-demo/)
