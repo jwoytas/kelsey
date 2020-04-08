@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Facebook Messenger Demo
-permalink: /fb-demo/
+permalink: /fbm-demo/
 ---
 
 {% include demo.html %}
 
+[Other Demos](/kelsey/demo/)
