@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dialogflow Web Demo
-permalink: /dfw-demo/
+permalink: /dfwd-demo/
 ---
 
 

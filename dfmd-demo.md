@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dialogflow Web Demo
-permalink: /dfm-demo/
+permalink: /dfmd-demo/
 ---
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
