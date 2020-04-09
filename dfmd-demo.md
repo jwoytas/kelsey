@@ -10,7 +10,7 @@ permalink: /dfmd-demo/
   chat-title="Kelsey(dev)"
   agent-id="a19a017c-771d-4b6f-a282-8ec6f786dae0"
   language-code="en"
-  expand="true"
+  expand
 ></df-messenger>
 
 
