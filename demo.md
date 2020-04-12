@@ -7,12 +7,12 @@ permalink: /demo/
 <br /><br />
 
 
-### [Facebook Messenger](/kelsey/fbm-demo/)
+### [Facebook Messenger](https://m.me/OkakiHealth)
 Requires facebook login
 
 <br /><br />
 
-### [DialogFlow Messenger](/kelsey/dfmd-demo/)
+### [DialogFlow Messenger](../dfmd-demo/)
 Development Environment
 
 No login required
