@@ -7,12 +7,12 @@ permalink: /demo/
 <br /><br />
 
 
-### [Facebook Demo](/kelsey/fbm-demo/)
+### [Facebook Messenger](/kelsey/fbm-demo/)
 Requires facebook login
 
 <br /><br />
 
-### [DialogFlow Messenger Demo](/kelsey/dfmd-demo/)
+### [DialogFlow Messenger](/kelsey/dfmd-demo/)
 Development Environment
 
 No login required
