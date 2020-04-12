@@ -6,10 +6,13 @@ permalink: /demo/
 
 <br /><br />
 
-#### Facebook (requires Facebook login)
-[Messenger Demo](/kelsey/fbm-demo/)
+
+### [Facebook Demo](/kelsey/fbm-demo/)
+Requires facebook login
 
 <br /><br />
 
-#### DialogFlow (development - no login needed)
-[Messenger Demo](/kelsey/dfmd-demo/)
+### [DialogFlow Messenger Demo](/kelsey/dfmd-demo/)
+Development Environment
+
+No login required
