@@ -16,3 +16,9 @@ Requires facebook login
 Development Environment
 
 No login required
+
+<br /><br />
+### [Knowledgebase Spreadsheet](../kb/)
+You can help train Kelsey by providing Questions and Answers
+
+(Subject to reveiw)

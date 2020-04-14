@@ -27,6 +27,9 @@ Kelsey combines consistant information from the following sources:
 * Siksika Website
 * Alberta Health Services
 * Govenment of Canada
+
+Kelsey also integrates data from local domain experts. 
+* [Knowledgebase Spreadsheet](kb/)
 <br /><br />
 
 ## Technology
