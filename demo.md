@@ -12,9 +12,7 @@ Requires facebook login
 
 <br /><br />
 
-### [DialogFlow Messenger](../dfmd-demo/)
-Development Environment
-
+### [DialogFlow Messenger](../dfm-demo/)
 No login required
 
 <br /><br />
