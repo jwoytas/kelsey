@@ -11,7 +11,7 @@ permalink: /dfm-demo/
   chat-title="Kelsey"
   agent-id="64f9b576-ab36-472a-9b1a-a508fe8b96bf"
   language-code="en"
-  expand
+  minimized
 ></df-messenger>
 
 
