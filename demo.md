@@ -15,7 +15,6 @@ Requires facebook login
 <br /><br />
 
 ### [Facebook Web - Messenger](../fbm-demo/)
-[https://m.me/SHWCsiksika](https://m.me/SHWCsiksika)
 
 No login required
 
