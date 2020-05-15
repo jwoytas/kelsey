@@ -7,10 +7,17 @@ permalink: /demo/
 <br /><br />
 
 
-### [Facebook Messenger](https://m.me/OkakiHealth)
-[http://m.me/OkakiHealth](https://m.me/OkakiHealth)
+### [Facebook Messenger](https://m.me/SHWCsiksika)
+[https://m.me/SHWCsiksika](https://m.me/SHWCsiksika)
 
 Requires facebook login
+
+<br /><br />
+
+### [Facebook Web - Messenger](../fbm-demo/)
+[https://m.me/SHWCsiksika](https://m.me/SHWCsiksika)
+
+No login required
 
 <br /><br />
 
