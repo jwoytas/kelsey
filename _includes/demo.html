@@ -1,5 +1,3 @@
-
-
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>
@@ -16,10 +14,11 @@
   js = d.createElement(s); js.id = id;
   js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-</script>
+}(document, 'script', 'facebook-jssdk'));</script>
 
-<br />
-<!--- Your customer chat code --->
-<div class="fb-customerchat"  page_id="635140230191012"> </div>
-<br />
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  page_id="635140230191012"
+logged_in_greeting="Oki!  Kitaistahpa kitahkohkoispom?  (How can I help?)"
+logged_out_greeting="Oki!  Kitaistahpa kitahkohkoispom?  (How can I help?)">
+</div>
