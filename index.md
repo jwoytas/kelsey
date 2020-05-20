@@ -29,7 +29,7 @@ Kelsey combines consistant information from the following sources:
 * Govenment of Canada
 
 Kelsey also integrates data from local domain experts. 
-* [Knowledgebase Spreadsheet](kb/)
+* [Knowledgebase + User Feedback](kb/)
 <br /><br />
 
 ## Technology
