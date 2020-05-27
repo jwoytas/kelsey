@@ -16,7 +16,7 @@ Requires facebook login
 
 ### [Facebook Web - Messenger](../fbm-demo/)
 
-No login required
+Requires facebook login
 
 <br /><br />
 
